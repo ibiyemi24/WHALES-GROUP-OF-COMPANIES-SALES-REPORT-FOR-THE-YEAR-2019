@@ -1,8 +1,11 @@
-Project Overview
+<img width="1822" height="873" alt="D2" src="https://github.com/user-attachments/assets/376d5115-ea76-4e36-bd94-add0546e4bea" />
+
+
+**Project Overview**
 
 This project analyzes the sales and revenue performance of Whales Group of Company using Microsoft Excel. The objective was to uncover key revenue trends, evaluate performance by regions, products, and sales representatives, and identify strategic opportunities for increasing profitability. The analysis reveals how customer behavior, product categories, and geographic markets contribute to overall business growth.
 
-Key Discoveries
+**Key Discoveries**
 
 Sales performance is highly concentrated among a few top performers, products, and regions.
 
@@ -16,7 +19,7 @@ A small number of customers dominate revenue contribution.
 
 Strong seasonality exists, with December showing the highest sales, and weaker months such as April and February.
 
-Identified Problems
+**Identified Problems**
 
 Significant performance gaps exist across regions, products, and sales representatives.
 
@@ -26,7 +29,7 @@ Certain regions and customers are underperforming, indicating potential market p
 
 Revenue opportunities are not equally distributed, leading to operational inefficiencies.
 
-Methodology
+**Methodology**
 
 Dataset sourced from Kaggle, cleaned, and structured into Excel tables.
 
@@ -36,7 +39,7 @@ Used Pivot Tables, Filters, Slicers, and multiple charts (bar, line, pie, and ma
 
 Data was analyzed based on revenue, region, customer segments, product categories, and seasonal trends.
 
-Insights & Recommendations
+**Insights & Recommendations**
 
 Support and retain high-performing sales reps through incentive and mentorship strategies.
 
@@ -50,7 +53,7 @@ Use seasonal insights to plan inventory and marketing campaigns around peak sale
 
 Provide targeted training and performance support to low-performing sales reps.
 
-Impact
+**Impact**
 
 Improved understanding of the strongest revenue drivers across product, region, and customer categories.
 
@@ -58,4 +61,4 @@ Clear roadmap for strategic decision-making in marketing, sales, product plannin
 
 Greater potential for optimized resource allocation, increased profitability, and more sustained growth.
 
-Establishes a foundation for future data-driven decision-making and performance forecasting.<img width="1822" height="873" alt="D2" src="https://github.com/user-attachments/assets/e15895d0-9449-4379-88c5-935ad4bfa217" />
+Establishes a foundation for future data-driven decision-making and performance forecasting.
